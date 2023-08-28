@@ -1,9 +1,9 @@
 
 ### Olá Eu sou o Pedro Barroso 👨‍💻
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Griffthhat&show_icons=true&theme=gruvbox)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=ph3523&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Griffthhat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph3523)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_henrique3523/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph.barroso3523@gmail.com)
